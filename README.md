@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/LogoPetIndigena.png" alt="LogoPetIndigena" width="250">
+  <img src="./assets/LogoPetIndigena.png" alt="LogoPetIndigena" width="300">
 </p>
 
 # Portal PET-Indígena UFPB (Campus IV)
